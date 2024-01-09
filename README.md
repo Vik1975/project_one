@@ -1,5 +1,5 @@
 # project_one
-Team: Dylan Sui, Everrardo Garcia, Viktor Kabelkov, Marco Nigro, Maritza Ahumanda
+Team: Dylan Sui, Everrardo Garcia, Viktor Kabelkov, Marco Nigro, Maritza Ahumada
 
 
 ## Project One: 
