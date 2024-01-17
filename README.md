@@ -20,20 +20,15 @@ https://usafacts.org/articles/how-many-homeless-people-are-in-the-us-what-does-t
 ## Questions:
 
 Is there a correlation between real estate rental prices and homelessness.
-Rental Prices over the years vs rate of homelessness - * 
-Analysis
-Which state has the highest rental prices. - *
-Analysis
-Which states have the highest counts of homelessness - *
-Analysis
-Another statistic to add / visualization is “Homelessness per capita”
-Breakdown of top ten States with their largest homeless population for their most densely populated cities.-*
-Analysis
-At what rate has homelessness changed over the past decade. - *
-Rental Prices over the years vs rate of homelessness -*
+Rental Prices over the years vs rate of homelessness.
+Which state has the highest rental prices.
+Which states have the highest counts of homelessness.
+Another statistic to add / visualization is “Homelessness per capita"
+Breakdown of top ten States with their largest homeless population for their most densely populated cities.
+At what rate has homelessness changed over the past decade.
+Rental Prices over the years vs rate of homelessness.
 Analysis on graphs / visualizations to see correlation. 
-What is the average homelessness demographic look like - *
-Analysis 
+What is the average homelessness demographic look like.
 
 
 Total Summary
