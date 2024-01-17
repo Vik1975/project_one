@@ -78,3 +78,28 @@ Merge all members branch to main branch - Final Result
 Will need approval of all team members 
 
 Create Google Slides 
+
+## Analysis:
+1. Several states in the East, Central, and Southern USA show a negative correlation between the number of homeless individuals and rental prices. In contrast, many states in the West show no clear correlation. Only a few states, such as Alaska, Delaware, and Vermont, demonstrate a positive correlation, indicating that an increase in rental prices is associated with a rise in the number of homeless individuals.
+
+2. Top 5 states with highest number of homeless in USA in 2022 : California: 171,521; New York: 74,178; Florida: 25,959; Washington 25,211; Texas: 24,432 
+
+3. Median Rental Distribution for Year 2022
+The lower quartile of rental is: 1557.0
+The upper quartile of rental is: 2278.0
+The interquartile range of rental is: 721.0
+The the median of rental is: 1833.0 
+Values below 475.5 could be outliers.
+Values above 3359.5 could be outliers.
+Outlier for 2022 Year is : MA    3372
+
+4. Median Homelessness Distribution for Year 2022
+The lower quartile of homelessness is: 2283
+The upper quartile of homelessness is: 9297
+The interquartile range of homelessness is: 7014
+The the median of homelessness is: 4410 
+Values above 19818 could be outliers.
+Outliers for 2022 Year : CA   171521,  FL   25959 ,NY  74178, TX  24432 , WA   25211
+
+
+
